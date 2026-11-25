@@ -51,9 +51,9 @@ a {
 }
 
 .btn {
-    background-color: rgb(161, 0, 255);
+    background-color: rgb(161, 0, 255) !important;
     border: 0;
-    color: white;
+    color: white !important;
     border-radius: 5px;
     padding: 10px 30px;
     font-size: 15px;
